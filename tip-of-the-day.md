@@ -228,5 +228,26 @@ Not at all, especially if you've spent real money on this game! All accounts hav
 * The better you minimize bloat the more effective you are
 * The more effective your roster the more likely you are to be drafted by a bigger guild
 
+```fix
+Tip of the Day - 2021-03-27
+Mods
+```
+Let me start by saying, "Mods are complicated." This isn't me trying to wiggle out of opening your eyes to all the mysteries of Mods, it is just a fact. Mods are comlicated and I am not an expert on them. 
 
+Mods become available when you reach level 50. Mods give boosts to your character's stats and allow you to differentiate your characters from everyone else's characters. For example, I might have my Ezra modded for Speed and Critical Hit Chance and you might have yours modded for Offense and Critical Hit Damage.
+
+In fact they are too complicated to go into detail on them in a quick tip or even a series of tips. I share a couple links at the end of this tip that cover mods better than I could do justice to here. I will follow up with more small tips along the way but reading the wiki article will be a good start to understanding them.
+
+
+**Quick tips:**
+_Mod rarity 1-4 are garbage!_ Mods come with rarities as indicated by dots over the top. Anything with 1-4 dots isn't worth your time. It is better than having an empty mod slot on your character but only barely. Replace them with 5 dot mods as quickly as you can. Sell them. Have a party with the proceeds. 5 dot mods can be sliced to 6 dot mods, 1-4 dot mods cannot be sliced.
+
+_Speed is King!_ All characters have special needs when it comes to mods. My best suggestion here is to use google. Google something like "SWGOH Geonosian Mods". You'll find a bounty of videos that will suggest the best mods for that team. Past that, almost all characters can use some extra speed. Going first is almost always better and going more often better yet.
+
+_Do it!_ Take the time to get your mods right. A well modded team will do much better than one with haphazard mods.
+
+**Links**
+What are mods: https://wiki.swgoh.help/wiki/Mods
+Mod optimizers:
+* https://mods-optimizer.swgoh.grandivory.com/
 

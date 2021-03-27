@@ -3,26 +3,37 @@ This document has swgod tips that are ready to be shared. Update the date, post 
 then move them to `tip-of-the-day.md`
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
+
 ```fix
 Tip of the Day - unused
-Mods
+Mods - which ones should I farm
 ```
-Let me start by saying, "Mods are complicated." This isn't me trying to wiggle out of opening your eyes to all the mysteries of Mods, it is just a fact. Mods are comlicated and I am not an expert on them. In fact they are too complicated to go into detail on them in a quick tip. I share a couple links at the end of this tip that I could not do justice to here.
+There's no one mod set that you should farm. Different characters need different stats. However, there are some basic rules you can use for determining if the mod should be sold or upgraded/sliced.
 
-Mods become available when you reach level 50. Mods give boosts to your character's stats and allow you to differentiate your characters from everyone else's characters. For example, I might have my Ezra modded for Speed and Critical Hit Chance and you might have yours modded for Offense and Critical Hit Damage.
+**RARITY**
+Mods with a rarity between 1 and 4 should be sold. They're better than nothing if you are just starting out; however, don't bother investing any resources in them. They cannot be sliced to be better than they. Rarity 5 can be sliced into better mods.
 
+**SPEED**
+Speed is very important in this game. Speed determines which character goes first and how often they get an action. In all but a limited number of cases more speed is better than less speed. When you are starting out you're going to have to use some mods with no speed bonuses but all other things being equal speed is important.
 
-**Quick tips:**
-_Mod rarity 1-4 are garbage!_ Mods come with rarities as indicated by dots over the top. Anything with 1-4 dots isn't worth your time. It is better than having an empty mod slot on your character but only barely. Replace them with 5 dot mods as quickly as you can. Sell them. Have a party with the proceeds. 5 dot mods can be sliced to 6 dot mods, 1-4 dot mods cannot be sliced.
+**SYNERGIES**
+Typically each character has one or two defining stats. These are usually the ones suggested by the Basic Mod UI but do a quick google to find out the internets opinion. Try to find the combination of mods that through sets, primary stats, and secondary stats maximize these defining stats. If you have a mod that is all over the place, put it higher in the list of "sellable mods".
 
-_Speed is King!_ All characters have special needs when it comes to mods. My best suggestion here is to use google. Google something like "SWGOH Geonosian Mods". You'll find a bounty of videos that will suggest the best mods. Past that, almost all characters can use some extra speed. Going first is almost always better and going more often better yet.
+https://mods-optimizer.swgoh.grandivory.com/ will help you optimize your mods.
 
-_Do it!_ Take the time to get your mods right. A well modded team will do much better than one with haphazard mods.
+**SLOTS**
+Arrow and Triangle mods are the most rare. All other things being equal sell these last. Arrow mods are the only ones that can have Speed as a primary stat. Sell these last.
 
-**Links**
-What are mods: https://wiki.swgoh.help/wiki/Mods
-Mod optimizers:
-* https://mods-optimizer.swgoh.grandivory.com/
+**ADDITIONAL RESEARCH**
+Unfortunately mods are just complicated. To get good at them you're going to have to do some independent research. I offer you the following link to help you get started.
+https://wiki.swgoh.help/wiki/Mods
+
+**SUMMARY**
+* Sell mods with 1-4 dots (rarity)
+* Prefer mods with more speed
+* Prefer focused mods (same stat in primary and seccondary)
+* Be cautious selling Arrow and Triangle mods
+* Go do more research
 
 
 ```fix
